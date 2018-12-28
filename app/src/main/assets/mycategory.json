@@ -1,0 +1,1366 @@
+{
+  "code": 200,
+  "message": "Catalog Fetched Successfully.",
+  "cause": "",
+  "data": {
+    "category_list": [
+      {
+        "catalog_id": 252,
+        "name": "Business",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "sample_image": "card01_93.webp",
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0,
+            "is_portrait": 1,
+            "width": 650.0,
+            "height": 800.0,
+            "frame_json": {
+              "frame_image": "bg01_93.png",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "",
+              "background_color": ""
+            },
+            "sticker_json": [
+              {
+                "xPos": 280,
+                "yPos": 31,
+                "width": 90,
+                "height": 57,
+                "sticker_image": "logo_01_93.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "text_json": [
+              {
+                "xPos": 215,
+                "yPos": 18,
+                "color": "#ffffff",
+                "text": "your club present",
+                "size": 30,
+                "fontPath": "fonts/arial.ttf",
+                "fontName": "ArialMT",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 266,
+                "yPos": 548,
+                "color": "#ffffff",
+                "text": "",
+                "size": 22,
+                "fontPath": "fonts/Roboto-Medium.ttf",
+                "fontName": "Roboto-Medium",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 81,
+                "yPos": 556,
+                "color": "#000000",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do\neiusmod tempor incididunt ut labore et dolore magna aliqua. Ut\nenim ad minim veniam, quis nostrud exercitation ullamco laboris\nnisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.",
+                "size": 14,
+                "fontPath": "fonts/Roboto-Medium.ttf",
+                "fontName": "Roboto-Medium",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 210,
+                "yPos": 683,
+                "color": "#e96224",
+                "text": "CALL US 0123456789",
+                "size": 22,
+                "fontPath": "fonts/Roboto-Medium.ttf",
+                "fontName": "Roboto-Medium",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 216,
+                "yPos": 754,
+                "color": "#ffffff",
+                "text": "www.comapnywebsite.com",
+                "size": 18,
+                "fontPath": "fonts/Roboto-Light.ttf",
+                "fontName": "Roboto-Light",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "image_sticker_json": [
+              {
+                "xPos": 72,
+                "yPos": 75,
+                "width": 592,
+                "height": 568,
+                "image_sticker_image": "poster1/item4.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              },
+              {
+                "xPos": 60,
+                "yPos": 77,
+                "width": 346,
+                "height": 346,
+                "image_sticker_image": "poster1/item1.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              },
+              {
+                "xPos": 115,
+                "yPos": 55,
+                "width": 174,
+                "height": 174,
+                "image_sticker_image": "poster1/item2.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              },
+              {
+                "xPos": 442,
+                "yPos": 345,
+                "width": 174,
+                "height": 174,
+                "image_sticker_image": "poster1/item3.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "catalog_id": 249,
+        "name": "Corporate",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 30,
+                "yPos": 41,
+                "color": "#ffffff",
+                "text": "FIND\nYOUR\nHOME\nIN THE\nCITY",
+                "size": 72,
+                "fontName": "OpenSans-Bold",
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 29,
+                "yPos": 592,
+                "color": "#ffffff",
+                "text": "CHECK OUT OUR MODEL UNITS!",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 29,
+                "yPos": 625,
+                "color": "#ffffff",
+                "text": "012 345 6789",
+                "size": 30,
+                "fontName": "OpenSans-Bold",
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 30,
+                "yPos": 717,
+                "color": "#ffffff",
+                "text": "YOUR LOGO",
+                "size": 36,
+                "fontName": "OpenSans-Bold",
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg11_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card11_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 250,
+        "name": "Event",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 156,
+                "yPos": 73,
+                "color": "#ffffff",
+                "text": "PURPLE VILLAGE'S 3RD ANNUAL",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Regular_0.ttf",
+                "fontName": "OpenSans",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 54,
+                "yPos": 520,
+                "color": "#c81f4e",
+                "text": "SATURDAY, JUNE 16",
+                "size": 36,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 55,
+                "yPos": 599,
+                "color": "#ffffff",
+                "text": "5261 LAVENDER LANE CORNER\nPURPLE LANE, ACTIVITY CENTER\n10AM - 8PM ",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 324,
+                "yPos": 147,
+                "color": "#c82250",
+                "text": "BOOK",
+                "size": 95,
+                "fontPath": "fonts/SCRIPTBL.TTF",
+                "fontName": "ScriptMTBold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 358,
+                "yPos": 247,
+                "color": "#c82250",
+                "text": "FAIR",
+                "size": 96,
+                "fontPath": "fonts/Roboto-Light.ttf",
+                "fontName": "Roboto-Light",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg21_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card21_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 247,
+        "name": "Fitness",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 142,
+                "yPos": 126,
+                "color": "#2c2829",
+                "text": "yoga by the bay",
+                "size": 48,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 178,
+                "yPos": 430,
+                "color": "#ffffff",
+                "text": "Monday - Friday: 8 AM to 10 AM\nSaturday - Sunday: 9 AM to 11 AM",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 187,
+                "yPos": 257,
+                "color": "#2c2827",
+                "text": "Free your mind with the help of\nthe world's natural music",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 129,
+                "yPos": 361,
+                "color": "#b9b9b9",
+                "text": "JOIN US FOR NEW CLASSES!",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 251,
+                "yPos": 40,
+                "color": "#2c2827",
+                "text": "GREAT NAMASTE",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg26_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card26_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 246,
+        "name": "Grand_Opening",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 56,
+                "yPos": 26,
+                "color": "#ffffff",
+                "text": "BEATS & RECORDS",
+                "size": 60,
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 425,
+                "yPos": 676,
+                "color": "#ffffff",
+                "text": " Visit us at\n5F Hudson Mall\nLos Angeles, CA",
+                "size": 24,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 199,
+                "yPos": 166,
+                "color": "#ffffff",
+                "text": "GRAND OPENING",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 161,
+                "yPos": 214,
+                "color": "#ffffff",
+                "text": "TO KEEP THE MUSIC PLAYING",
+                "size": 24,
+                "fontPath": "fonts/OpenSans-Regular.ttf",
+                "fontName": "OpenSans",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg31_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card31_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 245,
+        "name": "Salon",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "sample_image": "card36_93.webp",
+            "width": 650.0,
+            "height": 800.0,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0,
+            "is_portrait": 1,
+            "frame_json": {
+              "frame_image": "bg36_93.png",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "",
+              "background_color": ""
+            },
+            "text_json": [
+              {
+                "xPos": 40,
+                "yPos": 138,
+                "color": "#ffffff",
+                "text": "Company Name",
+                "size": 24,
+                "fontName": "fonts/arial.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 194,
+                "yPos": 744,
+                "color": "#c5d934",
+                "text": "01 23 34 56 789",
+                "size": 36,
+                "fontName": "fonts/arialbd.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 34,
+                "yPos": 409,
+                "color": "#c5d934",
+                "text": "YOU WILL NEVER\nLOOK THE SAME",
+                "size": 24,
+                "fontName": "fonts/arial.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 164,
+                "yPos": 585,
+                "color": "#ffffff",
+                "text": "WE HAVE A PROFESSIONAL\nTEAM",
+                "size": 24,
+                "fontName": "fonts/arial.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 245,
+                "yPos": 694,
+                "color": "#c5d934",
+                "text": "CALL US MAKE AN\nAPPOINTMENT",
+                "size": 18,
+                "fontName": "fonts/arial.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "image_sticker_json": [
+              {
+                "xPos": 243,
+                "yPos": 41,
+                "width": 407,
+                "height": 431,
+                "image_sticker_image": "saloon_img_1.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "sticker_json": [
+              {
+                "xPos": 94,
+                "yPos": 44,
+                "width": 68,
+                "height": 83,
+                "sticker_image": "logo_36_93.png",
+                "angle": 0,
+                "is_round": 0
+              },
+              {
+                "xPos": 271,
+                "yPos": 645,
+                "width": 109,
+                "height": 31,
+                "sticker_image": "shape_36_93.png",
+                "angle": 0,
+                "is_round": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "catalog_id": 244,
+        "name": "Party",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 227,
+                "yPos": 165,
+                "color": "#ffffff",
+                "text": "party\ntill the",
+                "size": 60,
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 179,
+                "yPos": 444,
+                "color": "#ffffff",
+                "text": "TGIF 7PM-MORNING",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 215,
+                "yPos": 580,
+                "color": "#ffffff",
+                "text": "Motika Building 2\n4195 Benson Park Drive\nOklahoma City, OK 73128",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 137,
+                "yPos": 481,
+                "color": "#ffffff",
+                "text": "everyone is welcome!",
+                "size": 70,
+                "alignment": 1,
+                "fontPath": "fonts/CoronetLTStd-Bold.ttf",
+                "fontName": "CoronetLTStd-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 166,
+                "yPos": 312,
+                "color": "#ffffff",
+                "text": "Daylight!",
+                "size": 70,
+                "fontPath": "fonts/SCRIPTBL.ttf",
+                "fontName": "ScriptMTBold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg41_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card41_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 243,
+        "name": "Photography",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 354,
+                "yPos": 271,
+                "color": "#ffffff",
+                "text": "INTO\nTHE\nWILD",
+                "size": 90,
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 267,
+                "yPos": 615,
+                "color": "#ffffff",
+                "text": "Cameron Schneider's\nTips on photography",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 152,
+                "yPos": 727,
+                "color": "#ffffff",
+                "text": "MAY 24,2018, AMPHITHEATER",
+                "size": 30,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg46_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card46_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 241,
+        "name": "Real Estate",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 173,
+                "yPos": 39,
+                "color": "#2d576f",
+                "text": "COMPANY NAME",
+                "size": 36,
+                "fontName": "OpenSans-Bold",
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 251,
+                "yPos": 102,
+                "color": "#2d576f",
+                "text": "REAL ESTATE",
+                "size": 24,
+                "alignment": 1,
+                "fontName": "OpenSans-Semibold",
+                "fontPath": "fonts/OpenSans-Semibold.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 20,
+                "yPos": 742,
+                "color": "#ffffff",
+                "text": "FOR MORE INFORMATION, CALL DANNY REYNOLDS AT (231) 287 3920\nBROCK & JONES REAL ESTATE  ï  PHOENIX, AZ   ï   BROCKANDJONES.CO",
+                "size": 18,
+                "fontName": "OpenSans-Semibold",
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [
+              {
+                "xPos": 11,
+                "yPos": 165,
+                "width": 629,
+                "height": 553,
+                "image_sticker_image": "real_estate_img_1.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "frame_json": {
+              "frame_image": "bg54_93.png",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "",
+              "background_color": ""
+            },
+            "sample_image": "card54_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 242,
+        "name": "Restaurant",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 249,
+                "yPos": 167,
+                "color": "#ffffff",
+                "text": "SILVER\nKITCHEN",
+                "size": 36,
+                "fontName": "OpenSans-Semibold",
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 127,
+                "yPos": 287,
+                "color": "#ffffff",
+                "text": "DISCOVER A NEW LEVEL OF TASTE.",
+                "size": 24,
+                "alignment": 1,
+                "fontName": "OpenSans-Semibold",
+                "fontPath": "fonts/OpenSans-Semibold.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 102,
+                "yPos": 618,
+                "color": "#ffffff",
+                "text": "LEVEL 3 | EAST CENTURY MALL",
+                "size": 30,
+                "fontName": "OpenSans-Semibold",
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [
+              {
+                "xPos": 280,
+                "yPos": 39,
+                "width": 90,
+                "height": 90,
+                "sticker_image": "logo_49_93.png",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "image_sticker_json": [
+              {
+                "xPos": 25,
+                "yPos": 354,
+                "width": 192,
+                "height": 220,
+                "image_sticker_image": "restaurent_img_1.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              },
+              {
+                "xPos": 228,
+                "yPos": 354,
+                "width": 193,
+                "height": 219,
+                "image_sticker_image": "restaurent_img_2.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              },
+              {
+                "xPos": 432,
+                "yPos": 354,
+                "width": 192,
+                "height": 219,
+                "image_sticker_image": "restaurent_img_3.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "frame_json": {
+              "frame_image": "bg49_93.png",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "",
+              "background_color": ""
+            },
+            "sample_image": "card49_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 248,
+        "name": "Dance",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 277,
+                "yPos": 208,
+                "color": "#ffffff",
+                "text": "AJ",
+                "size": 100,
+                "fontName": "OpenSans-Bold",
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 166,
+                "yPos": 360,
+                "color": "#ffffff",
+                "text": "SALSA DANCE\nFESTIVAL",
+                "size": 48,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 200,
+                "yPos": 516,
+                "color": "#ffffff",
+                "text": "Salsa's Roots 10.13.19 at 2pm\nRose Garden Dome\nHall B",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Regular_0.ttf",
+                "fontName": "OpenSans",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [
+              {
+                "xPos": 0,
+                "yPos": 0,
+                "width": 650,
+                "height": 800,
+                "image_sticker_image": "dance_img_1.jpg",
+                "angle": 0,
+                "is_round": 0,
+                "field_type": 9
+              }
+            ],
+            "frame_json": {
+              "frame_image": "bg16_93.png",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "",
+              "background_color": ""
+            },
+            "sample_image": "card16_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      },
+      {
+        "catalog_id": 251,
+        "name": "Christmas",
+        "thumbnail_img": "",
+        "compressed_img": "",
+        "is_free": 1,
+        "is_featured": 1,
+        "original_img": "",
+        "json_list": [
+          {
+            "text_json": [
+              {
+                "xPos": 160,
+                "yPos": 415,
+                "color": "#ffffff",
+                "text": "WITH DEALS UP TO 75% OFF",
+                "size": 24,
+                "fontPath": "fonts/OpenSans-Bold_0.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 152,
+                "yPos": 224,
+                "color": "#df5b45",
+                "text": "HOLIDAY\nBAZAR",
+                "size": 72,
+                "alignment": 2,
+                "fontPath": "fonts/OpenSans-Bold.ttf",
+                "fontName": "OpenSans-Bold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              },
+              {
+                "xPos": 177,
+                "yPos": 492,
+                "color": "#de5c45",
+                "text": "October 13, 2019   |   10:00 AM\nThe Multi Nation Village California",
+                "size": 18,
+                "fontPath": "fonts/OpenSans-Semibold_0.ttf",
+                "fontName": "OpenSans-Semibold",
+                "bg_image": "",
+                "texture_image": "",
+                "opacity": 100,
+                "angle": 0,
+                "shadowColor": "#000000",
+                "shadowRadius": 0,
+                "shadowDistance": 0,
+                "field_type": 1
+              }
+            ],
+            "sticker_json": [],
+            "image_sticker_json": [],
+            "frame_json": {
+              "frame_image": "",
+              "frame_color": ""
+            },
+            "background_json": {
+              "background_image": "bg06_93.jpg",
+              "background_color": ""
+            },
+            "sample_image": "card06_93.webp",
+            "height": 800,
+            "width": 650,
+            "is_portrait": 1,
+            "is_featured": 0,
+            "is_offline": 1,
+            "is_free": 1,
+            "json_id": 0
+          }
+        ]
+      }
+    ]
+  }
+}

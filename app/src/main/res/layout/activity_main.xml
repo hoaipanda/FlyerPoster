@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/lyTop"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#000">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Flyer Maker"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lyMenu"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/lyTop"
+        android:background="#000"
+        android:padding="3dp">
+
+        <RelativeLayout
+            android:id="@+id/lyFeature"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="0.3">
+
+            <ImageView
+                android:id="@+id/imFeature"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/boder_cate" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="FEATURED"
+                android:textColor="#FFFF"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/lyCategories"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="0.3">
+
+            <ImageView
+                android:id="@+id/imCategories"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/boder_cate"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="CATEGORIES"
+                android:textColor="#FFFF"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/lyMyDesign"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="0.3">
+
+            <ImageView
+                android:id="@+id/imMyDesign"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/boder_cate"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="MY DESIGNS"
+                android:textColor="#FFFF"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvFeature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lyMenu"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
